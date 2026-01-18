@@ -11,3 +11,17 @@ line break
 
 lol
 wut
+
+
+
+How to change stuff:
+
+Save file
+
+Open cmd in project folder
+
+git add .
+
+git commit -m "commit name"
+
+git push
